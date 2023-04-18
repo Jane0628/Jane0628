@@ -1,6 +1,9 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hi%20there!!%20:>&fontSize=90)
 
+<!-- Introduction -->
+### My name is Jane Yoo. I currently started to learn programming. :>
+
 <!-- JavaScript Logo -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
 <!--
