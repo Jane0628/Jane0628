@@ -1,11 +1,18 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hi%20there!!%20:>&fontSize=90)
 
-<!-- Introduction -->
+<!-- 소개 -->
 ### My name is Jane Yoo. I currently started to learn programming. :>
 
-<!-- JavaScript Logo -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
+---
+<!-- 무엇을 배웠는가? -->
+#### ~~ What I learned ~~
+1. <!-- java -->
+2. <!-- HTML -->
+3. <!-- CSS -->
+4. <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
+
+
 <!--
 **Jane0628/Jane0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
