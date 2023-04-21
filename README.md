@@ -7,8 +7,8 @@
 ---
 <!-- 무엇을 배웠는가? -->
 #### ~~ What I learned ~~
-1. <!-- java -->
-2. <!-- HTML --> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white" />
+1. <!-- java --> 
+2. <!-- HTML --> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=JavaScript&logoColor=white" />
 3. <!-- CSS -->
 4. <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
 
