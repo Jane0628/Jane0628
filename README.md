@@ -7,7 +7,7 @@
 ---
 <!-- 무엇을 배웠는가? -->
 #### ~~ What I learned ~~
-1. <!-- java --> 
+1. <!-- java --> ![image](https://user-images.githubusercontent.com/125543755/233915331-938c1373-9502-452c-b3b2-23041ce9e644.png)
 2. <!-- HTML --> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
 3. <!-- CSS --> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
 4. <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
