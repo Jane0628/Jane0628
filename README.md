@@ -8,9 +8,9 @@
 <!-- 무엇을 배웠는가? -->
 #### ~~ What I learned ~~
 1. <!-- java --> 
-2. <!-- HTML --> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-3. <!-- CSS --> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-4. <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
+2. <!-- HTML --> <object src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+3. <!-- CSS --> <object src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+4. <!-- JavaScript --> <object src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
 
 
 <!--
