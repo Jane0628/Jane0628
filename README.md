@@ -13,11 +13,10 @@
 4. <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
 
 <br>
-<br>
 
 <!-- 무엇을 배우고 있는가? -->
 #### ~~ What I'm learning right now ~~
-> <!-- SQL --> <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white" />
+1. <!-- SQL --> <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white" />
 
 <!--
 **Jane0628/Jane0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,8 +31,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 
 # 제목 1 (h1)
 ## 제목 2 (h2)
@@ -108,3 +105,7 @@ ___
 >>> 중첩의 중첩된 인용문
 
 <img src="https://images-ext-2.discordapp.net/external/bVaGOBPEJMPbLwIds50TjKlrFSAIKNoiwB9a0AwXXDs/https/github.githubassets.com/images/mona-whisper.gif?width=186&height=186" alt="pic"/>
+
+-->
+
+
