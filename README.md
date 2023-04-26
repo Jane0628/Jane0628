@@ -17,7 +17,7 @@
 
 <!-- 무엇을 배우고 있는가? -->
 #### ~~ What I'm learning right now ~~
-1. <!-- SQL --> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+> <!-- SQL --> <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white" />
 
 <!--
 **Jane0628/Jane0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
