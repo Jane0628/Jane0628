@@ -11,12 +11,13 @@
 2. <!-- HTML --> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
 3. <!-- CSS --> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
 4. <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
+5. <!-- SQL --> <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white" />
 
 <br>
 
 <!-- 무엇을 배우고 있는가? -->
 #### ~~ What I'm learning right now ~~
-1. <!-- SQL --> <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white" />
+1. <!-- Spring --> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 
 <!--
 **Jane0628/Jane0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
